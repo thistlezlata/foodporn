@@ -1,0 +1,196 @@
+@media (max-width: 1024px) and (min-width: 768px) {
+
+    .container {
+        padding: 0 40px;
+    }
+
+    .header__burger {
+        display: none;
+    }
+
+    .promo {
+        min-height: 256px;
+        background: url("foto/pizza.png") center center/cover no-repeat;
+        padding: 45px 0;
+    }
+
+    .title {
+        font-size: 40px;
+    }
+
+    .title__big {
+        font-size: 16px;
+        margin-top: 16px;
+    }
+
+    .title__btn {
+        min-height: 40px;
+        padding: 8px 40px;
+        font-size: 16px;
+    }
+
+    .portfolio {
+        min-height: 340px;
+        padding-top: 24px;
+    }
+    
+    .portfolio__header {
+        font-size: 24px;
+    }
+        
+    .portfolio__divider {
+        font-size: 16px;
+    }
+        
+    .portfolio__block {
+        margin-top: 17px;
+        min-height: 260px;
+    }
+        
+    .editorial {
+        background: url("mikrofoto/boxsquare1.png") center center/cover no-repeat;
+    }
+        
+    .serving {
+        background: url("mikrofoto/boxsquare2.png") center center/cover no-repeat;
+    }
+        
+    .baking {
+        background: url("mikrofoto/boxsquare3.png") center center/cover no-repeat;
+    }
+        
+    .subtitle {
+        margin: 24px auto;
+        font-size: 18px;
+    }
+        
+    .btn {
+        min-height: 38px;
+        margin: 1px auto 0;
+        padding: 5px 11px;
+        font-size: 14px;
+    }
+        
+    .me {
+        margin-top: 25px;
+    }
+        
+    .me__title {
+        font-size: 24px;
+    }
+        
+    .block__me {
+        margin-top: 16px;
+    }
+        
+    .me__foto {
+        height: 434px;
+        width: 275px;
+        background: url("foto/woman1.png") center center/cover no-repeat;
+    }
+        
+    .text__block {
+        padding: 24px 38px;
+    }
+        
+    .me__subtitle {
+        font-size: 18px;
+    }
+        
+    .me__text {
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    
+    .me__subtitle2 {
+        margin-top: 16px;
+        font-size: 16px;
+        text-transform: uppercase;
+    }
+    
+    .skill {
+        margin-top: 32px;
+    }
+
+    .skill__container {
+        max-width: 432px;
+        width: 100%;
+    }
+    
+    .skill__title {
+        font-size: 24px;
+    }
+    
+    .skill__block {
+        display: flex;
+        margin-top: 24px;
+        flex-flow: row wrap;
+    }
+    
+    .skill__block1 {
+        min-height: 210px;
+        width: calc(50% - 40px);
+        padding: 20px 0 10px;
+    }
+
+    .skill__img {
+        height: 130px;
+        width: 130px;
+        display: block;
+        margin: 0 auto;
+    }
+
+    .skills__white {
+        background: url("FOTOBOX2/box1.png") center center/cover no-repeat;
+    }
+    
+    .skills__composite {
+        background: url("FOTOBOX2/box2.png") center center/cover no-repeat;
+    }
+    
+    .skills__patterns {
+        background: url("FOTOBOX2/box3.png") center center/cover no-repeat;
+    }
+    
+    .skills__levitation {
+        background: url("FOTOBOX2/box4.png") center center/cover no-repeat;
+    }
+    
+    .skill__subtitle {
+        margin-top: 8px;
+        font-size: 16px;
+    }
+    
+    .contacts__block {
+        margin-top: 32px;
+        padding: 24px 28px;
+    }
+    
+    .contacts__title {
+        font-size: 24px;
+    }
+    
+    .contacts__subtitle {
+        margin-top: 8px;
+        font-size: 18px;
+    }
+    
+    .contacts__phone {
+        font-size: 24px;
+    }
+    
+    .contacts__title {
+        margin-top: 4px;
+        font-size: 24px;
+    }
+    
+    .footer {
+        margin-top: 32px;
+        padding: 13px 40px;
+        background-color: #fff
+    }
+    
+    .footer__title {
+        margin: 8px 0 0;
+    }
+}
